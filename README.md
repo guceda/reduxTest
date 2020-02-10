@@ -1,3 +1,8 @@
+# https://medium.com/free-code-camp/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
